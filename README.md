@@ -1,7 +1,9 @@
 Mode Fair - Software QA Engineer Assessment
+
 GitHub Link: https://github.com/ErWangXing/ModeFair-SoftwareQAEngineer-Assesment
 
 Task 1: Prepare 5 Scenarios and Test Case
+
 5 scenarios and test cases are prepared in a Word Document "modeFair-SoftwareQAEngineer-TestCase" inside the folder Task 1.
 
 
